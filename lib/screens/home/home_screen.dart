@@ -44,15 +44,15 @@ class _HomeScreenState extends State<HomeScreen> {
                   height: 10,
                 ),
                 const CustomWrap(
-                  title: "Principais funcionalidades do Bairo:",
+                  title: "Principais funcionalidades do Bairro:",
                   subTitle: '''
 Patrulhas sob demanda: em caso de emergência, você pode solicitar patrulhas imediatas. Nossos patrulheiros estarão prontos para agir em questão de minutos.
 
-Monitoramento em tempo real: o Bairo permite que você acompanhe a atividade em sua rua e bairro, para que você possa ficar informado sobre o que está acontecendo ao seu redor.
+Monitoramento em tempo real: o Bairro permite que você acompanhe a atividade em sua rua e bairro, para que você possa ficar informado sobre o que está acontecendo ao seu redor.
 
 Alertas personalizados: defina as áreas que deseja monitorar e receba alertas instantâneos sobre atividades suspeitas, como arrombamentos, assaltos e outras atividades criminosas.
 
-Comunidade engajada: o Bairo conecta você com uma comunidade engajada na segurança local. Compartilhe informações, crie grupos de patrulha e aumente a segurança em sua vizinhança.
+Comunidade engajada: o Bairro conecta você com uma comunidade engajada na segurança local. Compartilhe informações, crie grupos de patrulha e aumente a segurança em sua vizinhança.
 
 Suporte 24/7: nossa equipe de suporte está sempre disponível para ajudar com quaisquer questões relacionadas à segurança.
                     ''',
@@ -61,7 +61,7 @@ Suporte 24/7: nossa equipe de suporte está sempre disponível para ajudar com q
                   invert: true,
                   title: 'Mais tranquilidade',
                   subTitle:
-                      'Com o Bairo, você pode viver mais tranquilo sabendo que está protegido. Baixe agora mesmo e junte-se a uma comunidade mais segura.',
+                      'Com o bairro, você pode viver mais tranquilo sabendo que está protegido. Baixe agora mesmo e junte-se a uma comunidade mais segura.',
                 ),
                 const ButtonPage()
 
