@@ -90,7 +90,7 @@ class Left extends StatelessWidget {
         ),
         const SubText(
           text:
-          "O bairo é o aplicativo de segurança que você precisa ter em seu celular. Com ele, você pode solicitar patrulhas em tempo real, monitorar a sua rua e a vizinhança, além de receber alertas sobre atividades suspeitas. \nBaixe agora mesmo e tenha a proteção que você merece.",
+          "O bairro é o aplicativo de segurança que você precisa ter em seu celular. Com ele, você pode solicitar patrulhas em tempo real, monitorar a sua rua e a vizinhança, além de receber alertas sobre atividades suspeitas. \nBaixe agora mesmo e tenha a proteção que você merece.",
           color: Colors.white,
         ),
         const SizedBox(height: 20,),
